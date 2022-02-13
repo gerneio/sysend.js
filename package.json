@@ -1,5 +1,5 @@
 {
-  "name": "sysend-fork",
+  "name": "sysendfork",
   "version": "1.8.2",
   "description": "Web application synchronization between different tabs",
   "main": "sysend.js",
