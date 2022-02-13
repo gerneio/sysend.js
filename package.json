@@ -1,6 +1,6 @@
 {
-  "name": "sysend",
-  "version": "1.8.0",
+  "name": "sysend-fork",
+  "version": "1.8.2",
   "description": "Web application synchronization between different tabs",
   "main": "sysend.js",
   "typings": "sysend.d.ts",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcubic/sysend.js.git"
+    "url": "git+https://github.com/gerneio/sysend.js.git"
   },
   "keywords": [
     "tabs",
@@ -26,7 +26,7 @@
   "author": "Jakub T. Jankiewicz <jcubic@onet.pl> (https://jcubic.pl/me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jcubic/sysend.js/issues"
+    "url": "https://github.com/gerneio/sysend.js/issues"
   },
-  "homepage": "https://github.com/jcubic/sysend.js#readme"
+  "homepage": "https://github.com/gerneio/sysend.js#readme"
 }
